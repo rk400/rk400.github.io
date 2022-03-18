@@ -1,7 +1,5 @@
 # Primera página GitHub
 
-### Página personal de rk400
-
 Esta es mi página personal de GitHub.
 
 ### Lenguajes que conozco
@@ -16,6 +14,24 @@ Esta es mi página personal de GitHub.
 2. Mermaid
 3. GitHub
 4. LaTeX
+
+### Planificación del curso
+
+La planificación del segundo cuatrimestre.
+
+```mermaid
+gantt
+    title Planificación
+    dateFormat  YYYY-MM-DD
+    section Asignatura
+    HMIS :a1, 2022-02-09, 2022-05-31
+    PRIS2 :2022-02-09, 2022-05-31
+    TDI :2022-02-09, 2022-05-31
+    MDS2 :2022-02-09, 2022-05-31
+    section Examen
+    Revisión código :2022-06-01, 2022-07-02
+    Revisión memoria :2022-06-01, 2022-07-02
+```        
 
 ### Mi contacto
 
