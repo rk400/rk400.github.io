@@ -2,38 +2,21 @@
 
 ### Página personal de rk400
 
-You can use the [editor on GitHub](https://github.com/rk400/rk400.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esta es mi página personal de GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lenguajes que conozco
 
-### Markdown
+1. Java
+2. C
+3. C++
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Herramientas nuevas que he empezado a estudiar
 
-```markdown
-Syntax highlighted code block
+1. Markdown
+2. Mermaid
+3. GitHub
+4. LaTeX
 
-# Header 1
-## Header 2
-### Header 3
+### Mi contacto
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rk400/rk400.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Puede contactarme a través de mi [email](rrs999@inlumine.ual.es) y ver mis trabajos en mi [página GitHub](https://github.com/rk400).
